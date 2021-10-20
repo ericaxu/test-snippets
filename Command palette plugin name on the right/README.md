@@ -1,0 +1,1 @@
+This is a test snippet. It will move the plugin name from the left end to the right end in your command palette for easier scanning.
