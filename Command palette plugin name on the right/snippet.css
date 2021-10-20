@@ -1,0 +1,8 @@
+.suggestion-prefix {
+	float: right;
+	margin-left: 10px;
+}
+
+.suggestion-prefix:after {
+	content: '';
+}
